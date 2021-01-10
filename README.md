@@ -1,4 +1,4 @@
-# Analysis-of-Power-Outage-Events
+# Project Overview
 - Open-ended project for DSC80 (The Practice and Application of Data Science) taken at UCSD
 - Analyzed and visualized distribution of power outage characteristics and their correlations with outage durations
 - Performed A/B Test to assess the dependency of missingness in number of customers affected on outage durations
